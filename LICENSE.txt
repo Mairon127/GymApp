@@ -1,0 +1,15 @@
+End User License Agreement (EULA)
+
+Copyright (c) 2025 Mairon127 & MrDawkin. All Rights Reserved.
+
+This software is licensed, not sold. By using this software, you agree to the following terms:
+
+1. **Grant of License**: You are granted a limited, non-exclusive, non-transferable license to use this software for personal or commercial purposes, as defined by the author.
+2. **Restrictions**:
+   - You may not copy, modify, distribute, resell, or reverse engineer this software.
+   - You may not sublicense or transfer your rights under this license to any third party.
+3. **Ownership**: The author retains all rights, title, and interest in and to this software, including all intellectual property rights.
+4. **Termination**: This license is valid until terminated. Violation of any term may result in immediate termination of the license without prior notice.
+5. **Disclaimer of Warranty**: This software is provided "as is" without warranties of any kind. The author is not liable for any damages resulting from the use of this software.
+
+For licensing inquiries, contact with us for GitHub
